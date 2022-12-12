@@ -1,6 +1,13 @@
 # Sales Report Analysis using Power BI 
 
-# **Sales Report Analysis Dashboard** 
+# Tools used:
+
+# Method:
+
+# Questions to be answered using dashboard:
+
+
+# Link to my interactive dashboard at novypro
 
 View Interactive Dashboard: https://www.novypro.com/project/sales-report-analysis
 
