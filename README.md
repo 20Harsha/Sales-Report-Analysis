@@ -16,7 +16,7 @@ Power BI, MySQL, Excel
 4. Compare gross profit monthly?
 5. In waterfall chart compare products revenue year wise?
 
-# Link to my interactive dashboard at novypro
+# Link to my interactive dashboard at novypro:
 
 View Interactive Dashboard: https://www.novypro.com/project/sales-report-analysis
 
